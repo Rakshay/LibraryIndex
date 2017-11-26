@@ -1,0 +1,10 @@
+{
+  "port": 3000,
+  "mongoDb": {
+    "userName": "admin",
+    "password": "adminpwd",
+    "host": "ds117956.mlab.com",
+    "port": "17956",
+    "dbName": "akshayvrdb"
+  }
+}
