@@ -17,6 +17,12 @@ Allows you to search for Books based on the title. It uses the GoodReads DB list
  * NodeJS 4.4.x
  * NPM ^2.3.x
 
+### Configuration
+
+1. Get GoodReads Developer Keys from https://www.goodreads.com/api/keys
+
+2. Update the configuration file (./configuration.json) with the key and secret
+
 ### Installation
 
 1. Install dependencies ```$ npm install```
